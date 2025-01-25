@@ -1,9 +1,9 @@
 Google Form https://docs.google.com/forms/d/e/1FAIpQLSdrd0UCIzEVTtrUp88Sep0Wmk_56AudoRsw2NL5Q-XAdegWiA/viewform 
 
-# Historic Genetic Metabolic Data Registry  
+# PheBase Genetic Metabolic Data Registry  
 ## Informed Consent  
 
-The Historic Genetic Metabolic ("HGM") data registry collects information from existing biobanks and labs to provide researchers access to the reliable data they need to better understand and treat this spectrum of disorders.  
+The PheBase ("PhB") genetic metabolic data registry collects information from existing biobanks and labs to provide researchers access to the reliable data they need to better understand and treat this spectrum of disorders.  
 
 A rare disease registry collects and stores medical and other information from individuals with the same disease. A biobank is a place that stores tissue, blood, or other samples. Registries and biobanks often work together to share information.  
 
@@ -15,7 +15,7 @@ Today's technologies give us the opportunity to put the power of data to work fi
 
 ---
 
-## How does the HGM registry work?  
+## How does the registry work?  
 
 De-identified information regarding your genetic metabolic treatment history will be included in a secure database that will be used for medical research and experimental clinical trials. The purpose of the registry is to better understand rare diseases and to develop new treatments. The registry also addresses other critical needs like the turnaround of testing results and the distribution of treatments.  
 
