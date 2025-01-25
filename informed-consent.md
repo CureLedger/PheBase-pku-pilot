@@ -1,8 +1,8 @@
 Google Form https://docs.google.com/forms/d/e/1FAIpQLSdrd0UCIzEVTtrUp88Sep0Wmk_56AudoRsw2NL5Q-XAdegWiA/viewform 
 
-## This is a starter based on prior work by the FDA. 
+## This is a starter based on prior work on pragmatic clinical trials without reidentification, 
 
-# TODO: Develop Conditional Reidentificatioon protocol
+# TODO: Develop Conditional Reidentification protocol
 
 # PheBase Genetic Metabolic Data Registry  
 ## Informed Consent  
